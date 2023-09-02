@@ -2,8 +2,7 @@ package com.hanatour.homework.speak;
 
 public class Hello {
 
-    public String sayHello() {
+    public void sayHello() {
         System.out.println("hello world");
-        return "hello world";
     }
 }
